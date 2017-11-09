@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "echolocation", "Assembly-CSharp.csproj", "{970C5D2F-FC4E-BE28-6880-852D4FE57B01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "echolocation", "Assembly-CSharp-Editor.csproj", "{5B507B29-0981-A30F-C299-412C528E8091}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{970C5D2F-FC4E-BE28-6880-852D4FE57B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970C5D2F-FC4E-BE28-6880-852D4FE57B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970C5D2F-FC4E-BE28-6880-852D4FE57B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970C5D2F-FC4E-BE28-6880-852D4FE57B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B507B29-0981-A30F-C299-412C528E8091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B507B29-0981-A30F-C299-412C528E8091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B507B29-0981-A30F-C299-412C528E8091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B507B29-0981-A30F-C299-412C528E8091}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
